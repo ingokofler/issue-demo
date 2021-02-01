@@ -2,7 +2,7 @@
 name: Arbeitspaket
 about: Vorlage für Arbeitspakete.
 title: ''
-labels: AP
+labels: ap
 ---
 
 ##### Allgemein
